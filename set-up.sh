@@ -1,6 +1,6 @@
 #!/bin/bash
 
-apt install -y python3-pip3
+apt install -y python3-pip
 # set up aws cli
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
